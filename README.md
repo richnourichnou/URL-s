@@ -8,3 +8,6 @@ Collection de liens à garder sous la main...
 - http://www.reddit.com/r/web_design/comments/2v5ts0/ultimate_collection_of_free_stock_photos_websites/
 - http://www.bluevertigo.com.ar/
 
+## Icones (svg / png)
+
+- https://thenounproject.com/
