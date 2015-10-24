@@ -9,7 +9,7 @@ Collection de liens à garder sous la main...
 - http://www.inpixelitrust.fr/blog/
 
 
-## Veille UK
+## Veille (US)
 
 - http://www.noupe.com
 - http://www.smashingmagazine.com/
