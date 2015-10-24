@@ -1,6 +1,23 @@
 # URL's
 Collection de liens à garder sous la main...
 
+## Veille (FR)
+- http://www.frenchweb.fr/
+- http://www.presse-citron.net
+- http://www.journaldunet.com/
+- http://www.blogduwebdesign.com/
+- http://www.inpixelitrust.fr/blog/
+
+
+## Veille UK
+
+- http://www.noupe.com
+- http://www.smashingmagazine.com/
+- http://www.smashingapps.com/
+- https://css-tricks.com/
+- http://tympanus.net/codrops/
+
+
 ## Compilations de liens
 
 - http://beaqn.in/webdesign/
