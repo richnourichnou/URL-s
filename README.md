@@ -28,3 +28,4 @@ Collection de liens à garder sous la main...
 ## Icones (svg / png)
 
 - https://thenounproject.com/
+- http://template.pro/listes/42-sites-image-libre-de-droit/
