@@ -30,5 +30,3 @@ Collection de liens à garder sous la main...
 - https://thenounproject.com/
 - http://template.pro/listes/42-sites-image-libre-de-droit/
 - http://www.ux-republic.com/ne-trouvez-de-photos-libres-de-droit-de-qualite-internet-cet-article/
-- 
-
