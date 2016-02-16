@@ -33,3 +33,10 @@ Collection de liens à garder sous la main...
 - http://www.ux-republic.com/ne-trouvez-de-photos-libres-de-droit-de-qualite-internet-cet-article/
 - http://fr.freepik.com/flaticon
 - http://www.craftsmanspace.com
+
+## UX & co...
+
+- http://magicmockups.com/
+- https://placeit.net/
+- http://mockdrop.io/
+- https://topalternatives.com/photoshop-psd-product-shots-mockups/
