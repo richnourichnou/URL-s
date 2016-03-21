@@ -33,6 +33,7 @@ Collection de liens à garder sous la main...
 - http://www.ux-republic.com/ne-trouvez-de-photos-libres-de-droit-de-qualite-internet-cet-article/
 - http://fr.freepik.com/flaticon
 - http://www.craftsmanspace.com
+- http://instantlogosearch.com/
 
 ## UX & co...
 
