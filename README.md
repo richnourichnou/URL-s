@@ -35,6 +35,10 @@ Collection de liens à garder sous la main...
 - http://www.craftsmanspace.com
 - http://instantlogosearch.com/
 
+## Fonts
+
+- https://optimizerwp.com/web-fonts-resources/
+
 ## UX & co...
 
 - http://magicmockups.com/
