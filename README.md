@@ -42,6 +42,7 @@ Collection de liens à garder sous la main...
 ## UX & co...
 
 - http://magicmockups.com/
+- http://smartmockups.com/
 - https://placeit.net/
 - http://mockdrop.io/
 - https://topalternatives.com/photoshop-psd-product-shots-mockups/
