@@ -50,3 +50,10 @@ Collection de liens à garder sous la main...
 - https://pixelbuddha.net/ui-tiles/
 - http://collectui.com/
 - http://uxarchive.com/
+
+## UI & co...
+
+- http://uipatterns.io/
+- http://www.mobile-patterns.com/
+- https://pttrns.com/
+
