@@ -36,9 +36,15 @@ Collection de liens à garder sous la main...
 - http://www.craftsmanspace.com
 - http://instantlogosearch.com/
 
-## Fonts
+## Outils
+
+- https://www.gloomaps.com/
+
+## Fonts Typography
 
 - https://optimizerwp.com/web-fonts-resources/
+- https://www.supremo.tv/typeterms/
+- http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography
 
 ## UX & co...
 
