@@ -35,6 +35,8 @@ Collection de liens à garder sous la main...
 - http://fr.freepik.com/flaticon
 - http://www.craftsmanspace.com
 - http://instantlogosearch.com/
+- https://template.pro/trouver-icone-gratuite/
+- https://fr.vecteezy.com/
 
 ## Outils
 
