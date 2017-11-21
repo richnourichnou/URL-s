@@ -41,6 +41,7 @@ Collection de liens à garder sous la main...
 ## Outils
 
 - https://www.gloomaps.com/
+- https://xtensio.com/project/user-persona/
 
 ## Fonts Typography
 
