@@ -69,3 +69,11 @@ Collection de liens à garder sous la main...
 ## Youtube
 
 - https://blog.feedspot.com/web_development_youtube_channels/
+
+## Entrainement
+
+- https://flukeout.github.io/
+- http://cssgridgarden.com/#fr
+- http://flexboxfroggy.com/#fr
+
+
