@@ -76,4 +76,37 @@ Collection de liens à garder sous la main...
 - http://cssgridgarden.com/#fr
 - http://flexboxfroggy.com/#fr
 
+## Emploi (voir http://www.lechatcode.com/emploi/ )
 
+Les classiques
+- http://www.apec.fr/
+- http://www.monster.fr/
+- http://www.lesjeudis.com/
+- http://www.cadremploi.fr/
+- http://www.indeed.fr/
+
+Les réseaux sociaux
+- http://www.viadeo.fr/
+- http://www.linkedin.com/
+
+Les alternatifs
+- http://remixjobs.com/
+- http://www.regionsjob.com/
+- http://www.chooseyourboss.com/
+- http://careers.stackoverflow.com/
+- http://www.teletravail.fr/
+- http://emploi.frenchweb.fr/
+- http://startup4me.com/
+- http://www.urbanlinker.com/
+- http://azertyjobs.com/job/
+
+Les participatifs
+- http://www.glassdoor.com/
+- http://www.careerbliss.com/
+
+Les "Remote"
+- https://workingremote.io/
+- https://www.workingnomads.co/jobs
+- https://remote.co/
+- https://remoteok.io/
+- http://remotive.io/
